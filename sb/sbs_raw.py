@@ -3,9 +3,9 @@ import json
 import requests
 
 #Getting the data from Media player
-url = 'https://py.mcd.switchboardcms.com/device/PDP-226/system/dev/status'
-username = 'user'
-password = 'nXW6ndLkbmMAVZkV'
+url = 'https://<url>/device/<hostname>/system/dev/<status>'
+username = 'usuario'
+password = 'contrasenia'
 sbsinfo = requests.get(url, auth=(username, password)).content
 #print(sbsinfo)
 #print('The data at this point should be bytes')
