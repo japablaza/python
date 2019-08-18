@@ -1,4 +1,4 @@
-import requests json
+import requests
 
 estado = requests.get("http://api.open-notify.org/iss-now.json")
 
