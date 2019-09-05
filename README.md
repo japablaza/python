@@ -1,9 +1,9 @@
 # Python 101
 
-# Things accomplished during 2018
+## Things Accomplished During 2018
 
-# Things accomplished during 2019
+## Things Accomplished During 2019
 
-# Currently working on
+## Currently Working-on
 
 -  MITx: 6.00.1x Introduction to Computer Science and Programming Using Python 
