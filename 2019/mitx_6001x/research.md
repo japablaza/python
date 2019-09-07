@@ -23,5 +23,5 @@
    Function: hex()  
    `hex()` function will convert an integer to an hexadecimal *string* prefixed with `0x`.  
    Example:  
-   >>>`hex(255)   
+   `>>>hex(255)`   
   '0xff'
