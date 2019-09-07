@@ -17,5 +17,8 @@
    The prefix to define a binary number in Python is `0o` or `0O`.  
    Function: oct()
 
+-- Hexadecimal Numeral System  
+   The prefix to define a number in the Hexadecimal Numeral System is `0x` or `0X`  
+   Hexadecimal Numeral System has 16 digits, including the numbers `0-9` and letters `A` through `F`.  
+   Function: hex()  
 
-   
