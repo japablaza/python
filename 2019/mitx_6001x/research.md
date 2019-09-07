@@ -8,10 +8,10 @@
 - Numeral Systems  
   The default numeral system in Python is the Decimal (base 10)
 
--- Binary Numeral System  
-   The prefix to define a binary number in Python is `0b` or `0B`.  
-   Python automatically converts the binary number to a decimal number.  
-   Function: bin()
+  - Binary Numeral System  
+    The prefix to define a binary number in Python is `0b` or `0B`.  
+    Python automatically converts the binary number to a decimal number.  
+    Function: bin()
 
 -- Octal Numerical System  
    The prefix to define a binary number in Python is `0o` or `0O`.  
