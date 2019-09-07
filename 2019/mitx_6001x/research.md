@@ -21,4 +21,7 @@
    The prefix to define a number in the Hexadecimal Numeral System is `0x` or `0X`  
    Hexadecimal Numeral System has 16 digits, including the numbers `0-9` and letters `A` through `F`.  
    Function: hex()  
-
+   `hex()` function will convert an integer to an hexadecimal *string* prefixed with `0x`.  
+   Example:  
+   >>>`hex(255)   
+  '0xff'
