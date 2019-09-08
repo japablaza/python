@@ -41,8 +41,6 @@ URL: https://docs.python.org/3/library/stdtypes.html#truth
     - Zero of any numeric type: `0`, `0.0`, `0j`, `Decimal(0)`, `Fraction(0,1)`.  
     - Empty sequences and collections: `''`, `()`, `[]`, `{}`, `set()`, `range(0)`  
 
-- str(x)  
-  
 
 - ord(x) and chr(i)  
   x must be string.  
