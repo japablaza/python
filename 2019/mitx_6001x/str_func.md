@@ -1,0 +1,4 @@
+# String Function 
+
+- str(x)  
+  
