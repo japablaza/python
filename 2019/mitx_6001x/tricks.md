@@ -8,4 +8,8 @@
 
 ## Reverse
 - `text = 'abcdefg'`  
-  `text[::-1]`
+  `text[::-1]`  
+
+## Copy 
+- `list1 = [1,2,3,4]`  
+  `list1 = list2[:]`
