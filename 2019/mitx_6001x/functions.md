@@ -40,3 +40,13 @@ URL: https://docs.python.org/3/library/stdtypes.html#truth
     - Constants defined to be false: `None` and `False`.  
     - Zero of any numeric type: `0`, `0.0`, `0j`, `Decimal(0)`, `Fraction(0,1)`.  
     - Empty sequences and collections: `''`, `()`, `[]`, `{}`, `set()`, `range(0)`  
+
+- str(x)  
+  
+
+- ord(x) and chr(i)  
+  x must be string.  
+  i must be integer.  
+  ord(x) will return an integer representing the Unicode code point of that string.  
+  chr(i) returns the string representing a character whose Unicode code point is the integer `i`
+  
