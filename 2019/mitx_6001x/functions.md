@@ -1,4 +1,5 @@
 # Functions during my journey
+URL: https://docs.python.org/3/library/stdtypes.html#truth
 
 ## Built-in Functions
 
@@ -29,3 +30,13 @@
      ```
      >>>f'{78:b}'
      '1001110'
+
+- format(x)  
+  
+
+- bool(x)  
+  - Truth Value Tetsing. By default, an object is considered true unless its class defines either a `__bool()__()` method that returns `False` or a `__len__()` method that returns zero.  
+  - The following are the most build-in objects considered false:  
+    - Constants defined to be false: `None` and `False`.  
+    - Zero of any numeric type: `0`, `0.0`, `0j`, `Decimal(0)`, `Fraction(0,1)`.  
+    - Empty sequences and collections: `''`, `()`, `[]`, `{}`, `set()`, `range(0)`  
