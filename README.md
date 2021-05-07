@@ -2,8 +2,17 @@
 
 ## Things Accomplished During 2018
 
+- First python code
+
 ## Things Accomplished During 2019
 
-## Currently Working-on
+- Use the python knowledge to pull data from different sources using API calls.
+- First steps with Test Runner
+  - `unittest`
+  - `pytest`
 
--  MITx: 6.00.1x Introduction to Computer Science and Programming Using Python 
+## Things Accomplished During 2020
+
+-  Using pandas and plotting data 
+
+
