@@ -16,3 +16,10 @@
 -  Using pandas and plotting data 
 
 
+## Things Accomplished During 2021-2022
+
+- Manuscript Review
+  - The Well-Grounded Python Developer - ISBN 9781617297441
+  - Pandas in Action - ISBN 9781617297434
+  - Tiny Python Projects - ISBN 9781617297519
+  - ublishing Python Packages - ISBN 9781617299919
