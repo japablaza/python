@@ -13,8 +13,7 @@
 
 ## Things Accomplished During 2020
 
--  Using pandas and plotting data 
-
+- Using pandas and plotting data.
 
 ## Things Accomplished During 2021-2022
 
@@ -23,3 +22,8 @@
   - Pandas in Action - ISBN 9781617297434
   - Tiny Python Projects - ISBN 9781617297519
   - ublishing Python Packages - ISBN 9781617299919
+
+## 2023 - 2024
+
+- Certified Entry-Level Python Programmer
+- Certified Associate Python Programmer
