@@ -21,7 +21,7 @@
   - The Well-Grounded Python Developer - ISBN 9781617297441
   - Pandas in Action - ISBN 9781617297434
   - Tiny Python Projects - ISBN 9781617297519
-  - ublishing Python Packages - ISBN 9781617299919
+  - Publishing Python Packages - ISBN 9781617299919
 
 ## 2023 - 2024
 
